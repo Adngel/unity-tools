@@ -1,5 +1,8 @@
-// Character_Database class
-public class Character_Database
-{
-    // Your class implementation
+// Character Database
+
+using UnityEngine;
+
+[System.Serializable]
+public class Character_Database {
+    // Your character database properties and methods go here.
 }
