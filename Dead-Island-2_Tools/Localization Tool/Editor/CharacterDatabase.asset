@@ -1,0 +1,2222 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: af007adae0edf544289351e937eed559, type: 3}
+  m_Name: CharacterDatabase
+  m_EditorClassIdentifier: Assembly-CSharp::Character_Database
+  characters:
+  - displayName: ???
+    characterId: xqU9GEce4H
+    voiceIds:
+    - 6GKgDFzUzs
+    voiceName: Mystery Voice
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Alex
+    characterId: fDR0PZAcfD
+    voiceIds:
+    - crbOQUDMXe
+    voiceName: AlexN
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Amanda
+    characterId: KDJN0WHGuC
+    voiceIds:
+    - 22x7sX5MwS
+    voiceName: AmandaS
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Amy
+    characterId: HXRlo050AG
+    voiceIds:
+    - cJvSovpnFL
+    - yV0aOv7hyQ
+    voiceName: KonstantinRogueFemale
+    notes: 
+    priority: 10
+    isPlayer: 1
+  - displayName: Amy
+    characterId: GJrDsnIhsk
+    voiceIds: []
+    voiceName: 
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Andrea
+    characterId: DYJIPOilEI
+    voiceIds:
+    - IdyfpJUR9h
+    voiceName: AndreaS
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Angel
+    characterId: 
+    voiceIds:
+    - QslvTtLNGv
+    voiceName: AngelS
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Angelina
+    characterId: vpuIR9yPap
+    voiceIds: []
+    voiceName: 
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Ashley MMA
+    characterId: eUrV6glgQL
+    voiceIds: []
+    voiceName: 
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Aubrey
+    characterId: pMUCEqQY7w
+    voiceIds: []
+    voiceName: 
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Ava
+    characterId: 
+    voiceIds:
+    - Phsie27VlM
+    voiceName: AvaW
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Big Billy
+    characterId: pR3DoYr68X
+    voiceIds: []
+    voiceName: 
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Bozzy
+    characterId: rIn4WsItbB
+    voiceIds:
+    - a5T9dddYVZ
+    - SrziaeE2FG
+    voiceName: FL_HordeBozzyP
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Bruno
+    characterId: MN3Gp1T3ir
+    voiceIds:
+    - O3czpvE2sm
+    - at5XGHXdBF
+    voiceName: KonstantinRogueMale
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Bruno
+    characterId: kRt43LoLbQ
+    voiceIds: []
+    voiceName: 
+    notes: 
+    priority: 10
+    isPlayer: 1
+  - displayName: Bud
+    characterId: 4Rkt2T6ouY
+    voiceIds: []
+    voiceName: 
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Bundy
+    characterId: LltpTbfXU4
+    voiceIds: []
+    voiceName: 
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Burt
+    characterId: shVn0fvBEg
+    voiceIds:
+    - nr9pS9LrxM
+    voiceName: BurtM
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Cadenza
+    characterId: VVhyP9PtQN
+    voiceIds:
+    - vbgfvaiwBs
+    voiceName: Cadenza
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Cam
+    characterId: 2W7Vh8zOkC
+    voiceIds: []
+    voiceName: 
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Capt Kronke
+    characterId: dGoaVMWOPE
+    voiceIds: []
+    voiceName: 
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Captain Allen
+    characterId: cAOfy5mBeZ
+    voiceIds: []
+    voiceName: 
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Carla
+    characterId: oA3UkDSGmV
+    voiceIds:
+    - t6fSVO7RAg
+    - CxeWTBtjvt
+    voiceName: KonstantinWarriorFemale
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Carla
+    characterId: 2do0XXATEI
+    voiceIds: []
+    voiceName: 
+    notes: 
+    priority: 10
+    isPlayer: 1
+  - displayName: Carlos
+    characterId: 
+    voiceIds:
+    - NYt5OsP60o
+    voiceName: CarlosS
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Carmen
+    characterId: HV7g4iznNe
+    voiceIds:
+    - oesjhWrXJ7
+    voiceName: CarmenR
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Cat
+    characterId: QJhkYR5Hz5
+    voiceIds: []
+    voiceName: 
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: CDC Pilot
+    characterId: Mh4Hwwxxvt
+    voiceIds: []
+    voiceName: 
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Colt Swanson
+    characterId: b7HbC2uHDl
+    voiceIds: []
+    voiceName: 
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Computer
+    characterId: Ru9W0sEdMC
+    voiceIds: []
+    voiceName: 
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Connie
+    characterId: 
+    voiceIds:
+    - ivgVrgZXww
+    voiceName: MPConnie
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Convict Convictson
+    characterId: VDyko9pWFt
+    voiceIds: []
+    voiceName: 
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Co-Pilot Flyboy
+    characterId: ckxPiHjjud
+    voiceIds: []
+    voiceName: 
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Corporal
+    characterId: 8kALfRNSt3
+    voiceIds: []
+    voiceName: 
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Crusher King
+    characterId: 1RHImtvDM7
+    voiceIds: []
+    voiceName: 
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Curtis
+    characterId: 
+    voiceIds:
+    - 44fQsLwoMp
+    voiceName: CurtisS
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Dan
+    characterId: ojTiaLHilo
+    voiceIds: []
+    voiceName: 
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Dani
+    characterId: w29Vbo6JDQ
+    voiceIds:
+    - Mj2VrygohP
+    - IMFjU6EGac
+    voiceName: KonstantinBerserkerFemale
+    notes: 
+    priority: 10
+    isPlayer: 1
+  - displayName: Dani
+    characterId: GFUQbRrHag
+    voiceIds: []
+    voiceName: 
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Danny
+    characterId: 
+    voiceIds:
+    - RKiJI064cv
+    voiceName: DannyM
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Dave F-boy
+    characterId: eGchr7lubV
+    voiceIds: []
+    voiceName: 
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: DD-09
+    characterId: 
+    voiceIds:
+    - 3T3Oo6ZFNI
+    voiceName: DD09
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: DD-09 Ad
+    characterId: 3nADCCgyJH
+    voiceIds: []
+    voiceName: 
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Debug Character3
+    characterId: 1W7f6zxMaF
+    voiceIds: []
+    voiceName: 
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Delgado
+    characterId: IRBGhbwA0E
+    voiceIds: []
+    voiceName: 
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Denise
+    characterId: mdwBsHFrhG
+    voiceIds:
+    - ie9xq6oJrM
+    voiceName: DeniseC
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Dennis
+    characterId: QLEHD8KdfO
+    voiceIds: []
+    voiceName: 
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Dennis
+    characterId: zB4M7srYvC
+    voiceIds: []
+    voiceName: 
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Dermot
+    characterId: JYlG57X2g9
+    voiceIds: []
+    voiceName: 
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Dermot
+    characterId: PtVDrMDPdC
+    voiceIds: []
+    voiceName: 
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Dez
+    characterId: 0vQubgHZo4
+    voiceIds:
+    - P5DP5loz6Z
+    - FbMbj1EUAV
+    voiceName: FL_HordeDezP
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Doc Marin
+    characterId: AvmnuWZwTT
+    voiceIds: []
+    voiceName: 
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Doctor Gadot
+    characterId: dVkc6B4x4g
+    voiceIds: []
+    voiceName: 
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Dougie
+    characterId: 
+    voiceIds:
+    - hY7CaWhylM
+    voiceName: DougieW
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Dr Fleming
+    characterId: HAX9CPd9mS
+    voiceIds: []
+    voiceName: 
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Dr Hornchurch
+    characterId: ROYyDpDQCp
+    voiceIds: []
+    voiceName: 
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Dr. Fleming
+    characterId: wdCIgTIpc1
+    voiceIds: []
+    voiceName: 
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Dr. Hornchurch
+    characterId: 7HGGqE9ylU
+    voiceIds: []
+    voiceName: 
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Dr. Howard
+    characterId: tEsDxVnK9X
+    voiceIds: []
+    voiceName: 
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Dr. Reed
+    characterId: yMoEYuJnlw
+    voiceIds:
+    - cBTN2fIJlo
+    voiceName: ReubenR
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Driller King
+    characterId: BqhqmsndbK
+    voiceIds: []
+    voiceName: 
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Dwight
+    characterId: yQlLJEQx1a
+    voiceIds: []
+    voiceName: 
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Dwight Dimmer
+    characterId: 1WgSz2FBDe
+    voiceIds: []
+    voiceName: 
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Echo
+    characterId: 
+    voiceIds:
+    - nqZT6xlQGD
+    voiceName: HausEcho
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Echoes of Despair
+    characterId: fE1dh5BPaY
+    voiceIds:
+    - v8Ld6VFffp
+    voiceName: ReformerVoices
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Elizabeth
+    characterId: 
+    voiceIds:
+    - HNBqsRRZ1z
+    voiceName: ElizabethS
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Elizabeth Salazar
+    characterId: GG2WQGi3hp
+    voiceIds: []
+    voiceName: 
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Elon Konrad
+    characterId: Bym8cmNClc
+    voiceIds: []
+    voiceName: 
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Emily
+    characterId: Ku6irdwsky
+    voiceIds: []
+    voiceName: 
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Emma
+    characterId: X9i481NP1Z
+    voiceIds:
+    - yDKk4e23pf
+    voiceName: EmmaJ
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Eschaton
+    characterId: 
+    voiceIds:
+    - ZPXSR61tir
+    voiceName: Eschaton
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Eschaton AI
+    characterId: kUYIjpruCC
+    voiceIds: []
+    voiceName: 
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Esta
+    characterId: 
+    voiceIds:
+    - WJNUQ7QMs1
+    voiceName: EstaN
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Evie
+    characterId: 
+    voiceIds:
+    - 29j0kFn4kl
+    voiceName: EvieH
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Ezekiel
+    characterId: 
+    voiceIds:
+    - H1xa9w7EP0
+    voiceName: EzekielJ
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Fangirl
+    characterId: roDaEkfk64
+    voiceIds: []
+    voiceName: 
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: FL_Horde Narrator
+    characterId: WWDT5CkyHV
+    voiceIds: []
+    voiceName: 
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Francesca
+    characterId: 
+    voiceIds:
+    - zCIUTGkby0
+    voiceName: FrancescaB
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Furious Scream
+    characterId: qBWbmiLOpE
+    voiceIds: []
+    voiceName: 
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Gang1 Banger
+    characterId: eBgqcAfZoJ
+    voiceIds: []
+    voiceName: 
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Gang3 Banger
+    characterId: MxqRv4wYzc
+    voiceIds: []
+    voiceName: 
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Generic Bikers
+    characterId: 9tPERi1JhA
+    voiceIds: []
+    voiceName: 
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Generic Cop
+    characterId: AS6w4D9lco
+    voiceIds: []
+    voiceName: 
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Generic Survivors
+    characterId: malwzUSdwH
+    voiceIds: []
+    voiceName: 
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Gnasher Biker
+    characterId: aDjS8jpMak
+    voiceIds: []
+    voiceName: 
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Gods and Whiskey
+    characterId: PuraLywlgQ
+    voiceIds: []
+    voiceName: 
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: GPS
+    characterId: it7K6pxobs
+    voiceIds: []
+    voiceName: 
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Grace
+    characterId: NuNbliXRoU
+    voiceIds:
+    - oaHda4NZhT
+    voiceName: Grace
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Greg
+    characterId: 
+    voiceIds:
+    - i7ksXFEp22
+    voiceName: MPGreg
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Guard
+    characterId: 1mRDovsEgW
+    voiceIds: []
+    voiceName: 
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Hacksaw Biker
+    characterId: aUAjlDGkhw
+    voiceIds: []
+    voiceName: 
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Halperin Hotel Virtual Agent
+    characterId: OkFBBu7nKQ
+    voiceIds: []
+    voiceName: 
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Hana
+    characterId: w9omY4FkhR
+    voiceIds:
+    - x9ezhPMHBJ
+    - RCw6sv40U0
+    voiceName: Hana
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Haus Ark Voices
+    characterId: BW7mssODeR
+    voiceIds: []
+    voiceName: 
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Haus Candidates
+    characterId: aB7kkuxtyu
+    voiceIds: []
+    voiceName: 
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Hope
+    characterId: zu3J1vVpTS
+    voiceIds: []
+    voiceName: 
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Infected Man
+    characterId: WYYOeRw6Le
+    voiceIds: []
+    voiceName: 
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Jacob
+    characterId: oBGVRxQnka
+    voiceIds:
+    - EUWwPV4BHu
+    - Fmov5daZdn
+    voiceName: KonstantinBerserkerMale
+    notes: 
+    priority: 10
+    isPlayer: 1
+  - displayName: Jacob
+    characterId: Bin8F66upk
+    voiceIds: []
+    voiceName: 
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Jake
+    characterId: GI7gz6QGN7
+    voiceIds: []
+    voiceName: 
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Jake Jones
+    characterId: iirROpGngi
+    voiceIds: []
+    voiceName: 
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Janet
+    characterId: 
+    voiceIds:
+    - ejw6s8fSnR
+    voiceName: JanetY
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Jason
+    characterId: tx16gRicrO
+    voiceIds: []
+    voiceName: 
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Jay
+    characterId: 
+    voiceIds:
+    - QuEy6dcyGs
+    voiceName: Jay
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Jessie
+    characterId: 
+    voiceIds:
+    - NEMDOe2H8x
+    voiceName: JessieK
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Jimmy
+    characterId: WGM3GDNxuG
+    voiceIds:
+    - 6WumHBPjCH
+    voiceName: JimmyM
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: John
+    characterId: 
+    voiceIds:
+    - FjC19MUHhA
+    voiceName: JohnP
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Joshua
+    characterId: GzmVHvc2Za
+    voiceIds:
+    - 7XFKqru8jO
+    voiceName: Joshua Lemar
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Journal Characters
+    characterId: zfNXTjefrt
+    voiceIds: []
+    voiceName: 
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Journal EmmaJ
+    characterId: wK9ohGsJ7G
+    voiceIds: []
+    voiceName: 
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Kai
+    characterId: dLQwCqmWWC
+    voiceIds:
+    - n1ZuCKX7Ce
+    voiceName: KaiI
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Kaito Watanabe
+    characterId: AJhnZuEPPb
+    voiceIds: []
+    voiceName: 
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Kate
+    characterId: 
+    voiceIds:
+    - 55qSOIAXGW
+    voiceName: KateS
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Ken
+    characterId: 
+    voiceIds:
+    - V9K627ziIo
+    voiceName: KenW
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Konradt
+    characterId: PqvEjGTfZl
+    voiceIds:
+    - 0DAHFhK9RB
+    voiceName: Lola Konradt
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Konstantin
+    characterId: cEQ8rbxWB2
+    voiceIds:
+    - l3PNzE9Isp
+    - Y2EFnVCXus
+    - XeHTD9fDXz
+    voiceName: SolaKonstantin
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Konstantin
+    characterId: vh6xMvv8UR
+    voiceIds: []
+    voiceName: 
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Konstantin AI
+    characterId: 34AzPuSuy4
+    voiceIds: []
+    voiceName: 
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Laura
+    characterId: dESocyWqpJ
+    voiceIds: []
+    voiceName: 
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: LAX PA SYSTEM
+    characterId: nv9b1gUwbQ
+    voiceIds: []
+    voiceName: 
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: 'Lena Haboiyan[CUT]'
+    characterId: weu0t94ZmX
+    voiceIds: []
+    voiceName: 
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Lieutenant Rollins
+    characterId: ykmEz5qrf8
+    voiceIds: []
+    voiceName: 
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Louise
+    characterId: 
+    voiceIds:
+    - 1REKOmp5an
+    voiceName: Seismologist
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Luciana
+    characterId: 
+    voiceIds:
+    - dOEBXQxnG8
+    voiceName: LucianaS
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Luther
+    characterId: Yuexy5gv0B
+    voiceIds:
+    - Sl6ZK7rQ9q
+    voiceName: LutherT
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Madison Reed
+    characterId: JoFRhlNe5K
+    voiceIds: []
+    voiceName: 
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Major Booker
+    characterId: 
+    voiceIds:
+    - rNB9tlvxVc
+    voiceName: MajorD
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Major Travis
+    characterId: HPpATMsWHC
+    voiceIds: []
+    voiceName: 
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Man
+    characterId: EpCTgXy6uc
+    voiceIds: []
+    voiceName: 
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Marjorie
+    characterId: KMRC2EExTY
+    voiceIds: []
+    voiceName: 
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Marjory
+    characterId: czkB3zvm4A
+    voiceIds: []
+    voiceName: 
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Mark Dursey
+    characterId: 3UpSDHpMpX
+    voiceIds: []
+    voiceName: 
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: 'Meatslab Biker [CUT]'
+    characterId: EsGTe7lERB
+    voiceIds: []
+    voiceName: 
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Meditation Guru
+    characterId: QJAUZKuuIU
+    voiceIds: []
+    voiceName: 
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Michael
+    characterId: nzHEGxLRZP
+    voiceIds:
+    - Is0vEHuy6G
+    voiceName: MichaelA
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Michelle Bell
+    characterId: VaD2REWAiZ
+    voiceIds: []
+    voiceName: 
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Military PA System
+    characterId: 2xhUntGMdx
+    voiceIds: []
+    voiceName: 
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: MJ
+    characterId: 0whIToKV18
+    voiceIds: []
+    voiceName: 
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Mo
+    characterId: VW88LxdaqT
+    voiceIds: []
+    voiceName: 
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Moira
+    characterId: xtVElMB2mu
+    voiceIds: []
+    voiceName: 
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Molly
+    characterId: SdXIFxocEe
+    voiceIds: []
+    voiceName: 
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Nick
+    characterId: 9wzFIBDuuR
+    voiceIds:
+    - zaZ6BOZU5E
+    voiceName: FL_HordeNick
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Noah
+    characterId: VwEK1059n0
+    voiceIds: []
+    voiceName: 
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Nora
+    characterId: 
+    voiceIds:
+    - EHaoQ4ykW7
+    voiceName: NoraS
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Nova
+    characterId: SHhqipmBQC
+    voiceIds: []
+    voiceName: 
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Numen Song
+    characterId: lwFkIH3Hy7
+    voiceIds: []
+    voiceName: 
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Officer Garcia
+    characterId: ury15nRjin
+    voiceIds: []
+    voiceName: 
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Officer Mateo
+    characterId: xyV6Bx1V5F
+    voiceIds: []
+    voiceName: 
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Olivia
+    characterId: aLVn1b4TQ9
+    voiceIds: []
+    voiceName: 
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Olivia
+    characterId: HXn7hCe9Jb
+    voiceIds: []
+    voiceName: 
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Omen to Kill Trailer
+    characterId: XXQBFaGGz8
+    voiceIds: []
+    voiceName: 
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Other Voices
+    characterId: 
+    voiceIds:
+    - iUAFp7ph9q
+    voiceName: ReformerOtherVoices
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: P.A. System
+    characterId: 1R3ggFExFH
+    voiceIds:
+    - eLioKtHY0g
+    voiceName: TannoyArmy
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Pablo
+    characterId: 7QNhD7GZu2
+    voiceIds: []
+    voiceName: 
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Panicked Woman
+    characterId: 6wc2vkDzCN
+    voiceIds: []
+    voiceName: 
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Panicked Woman
+    characterId: KnU3nUlCeJ
+    voiceIds: []
+    voiceName: 
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Patrick
+    characterId: xPGug10pSh
+    voiceIds: []
+    voiceName: 
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Patton
+    characterId: XALAA7ABI0
+    voiceIds:
+    - DKPenE6O9u
+    voiceName: PattonG
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Paul
+    characterId: DR8Uwc36yB
+    voiceIds: []
+    voiceName: 
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Phone
+    characterId: 1iKCO8NDIc
+    voiceIds: []
+    voiceName: 
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Phone Recording
+    characterId: iiWJgUVDnM
+    voiceIds: []
+    voiceName: 
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Piglet
+    characterId: 
+    voiceIds:
+    - 4QNRZULnbp
+    voiceName: ZombieThugMalePiglet01
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Pilot
+    characterId: GNfjiH9zIA
+    voiceIds: []
+    voiceName: 
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Pilot 1
+    characterId: DOAc93XwXc
+    voiceIds: []
+    voiceName: 
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: PlayerHordeBozzy
+    characterId: 
+    voiceIds:
+    - tW7kWwoD3a
+    voiceName: PlayerHordeBozzy
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: PlayerHordeDez
+    characterId: 
+    voiceIds:
+    - ggtqlKPCJQ
+    voiceName: PlayerHordeDez
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: PlayerHordeHana
+    characterId: 
+    voiceIds:
+    - JX37dz6a3c
+    voiceName: PlayerHordeHana
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: PlayerHordeNick
+    characterId: 
+    voiceIds:
+    - 3bB7esptvk
+    voiceName: PlayerHordeNick
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: PlayerHordeRav
+    characterId: 
+    voiceIds:
+    - WV2cExvZLu
+    voiceName: PlayerHordeRav
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: PlayerHordeSarah
+    characterId: 
+    voiceIds:
+    - 9EIhNqsCGV
+    voiceName: PlayerHordeSarah
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Police Officer
+    characterId: O1nj8byQWO
+    voiceIds: []
+    voiceName: 
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Portia
+    characterId: 
+    voiceIds:
+    - BIWSVWhBqo
+    voiceName: MPPortia
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Private
+    characterId: 61eRSGMCX6
+    voiceIds: []
+    voiceName: 
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Private Booker
+    characterId: BAcHxkdcCf
+    voiceIds: []
+    voiceName: 
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Private Jones
+    characterId: yweYgDnXao
+    voiceIds: []
+    voiceName: 
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Private Kelly
+    characterId: m16jmH7WLU
+    voiceIds: []
+    voiceName: 
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Private Morton
+    characterId: nnA2YD5BgH
+    voiceIds: []
+    voiceName: 
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Private Turfmoor
+    characterId: ZzFStHSbKz
+    voiceIds: []
+    voiceName: 
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Pvt Smith
+    characterId: QQoveU68lL
+    voiceIds: []
+    voiceName: 
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Queue Voice 1
+    characterId: xfvXHvyobn
+    voiceIds: []
+    voiceName: 
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Queue Voice 2
+    characterId: Dj4EEKHe6G
+    voiceIds: []
+    voiceName: 
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Queue Voice 3
+    characterId: ukjnqpHvMd
+    voiceIds: []
+    voiceName: 
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Radio
+    characterId: MNW6IPfQrh
+    voiceIds: []
+    voiceName: 
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Rainier
+    characterId: 
+    voiceIds:
+    - bsuO0NVnTK
+    voiceName: MPRainier
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Rav
+    characterId: iockJgATwa
+    voiceIds:
+    - OBZePHYP13
+    - CngxE6lCz5
+    voiceName: FL_HordeRavG
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Rikky
+    characterId: Ybr96vPljQ
+    voiceIds:
+    - Reec1CSme5
+    voiceName: RikkyR
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Rita
+    characterId: 
+    voiceIds:
+    - xIyaVw4FW5
+    voiceName: RitaR
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Roger
+    characterId: 
+    voiceIds:
+    - fzSbAz61QG
+    voiceName: RogerM
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Roger Miller
+    characterId: ZQVw55Uaqh
+    voiceIds: []
+    voiceName: 
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Ronnie
+    characterId: gV8vH8FQwC
+    voiceIds:
+    - 2nGHZoCNJq
+    voiceName: RonnieR
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Rosa
+    characterId: 
+    voiceIds:
+    - qerWXokwkf
+    voiceName: RosaL
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Roxanne
+    characterId: 8Ix9MKMY77
+    voiceIds:
+    - AkeK5d3C05
+    voiceName: RoxanneK
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Ryan
+    characterId: 7H6N38NbuN
+    voiceIds:
+    - PDul4ZhioC
+    - EOT7Daguls
+    voiceName: KonstantinWarriorMale
+    notes: 
+    priority: 10
+    isPlayer: 1
+  - displayName: Ryan
+    characterId: pc1P0YAtlp
+    voiceIds: []
+    voiceName: 
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Saleh Ebeid
+    characterId: 7PB796ZCM3
+    voiceIds: []
+    voiceName: 
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Sam B
+    characterId: 30FdL8s6yV
+    voiceIds:
+    - O3WtJl7X0k
+    voiceName: SamB
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Sarah
+    characterId: giizp7rSCU
+    voiceIds:
+    - acNGibc0EG
+    - Jjidb05xff
+    voiceName: FL_HordeSarah
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Sat Nav
+    characterId: jeuGPGbea7
+    voiceIds: []
+    voiceName: 
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Sean
+    characterId: h6z0KtL8Bk
+    voiceIds: []
+    voiceName: 
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Sebastian
+    characterId: 
+    voiceIds:
+    - 9fo0fSidKZ
+    voiceName: SebastianW
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Sebastian  Bukowski
+    characterId: N3aDa5HptR
+    voiceIds: []
+    voiceName: 
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Sgt Cockerham
+    characterId: qS923OJHtq
+    voiceIds: []
+    voiceName: 
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Sgt Meadows
+    characterId: lgzDIVIsRg
+    voiceIds: []
+    voiceName: 
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Sgt. Meadows
+    characterId: DX0ymT2QPQ
+    voiceIds: []
+    voiceName: 
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Sharon
+    characterId: SIOeYRvVzS
+    voiceIds: []
+    voiceName: 
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Sharon
+    characterId: P2uJC10sUg
+    voiceIds: []
+    voiceName: 
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Sid
+    characterId: 
+    voiceIds:
+    - toMc1fU0Wu
+    voiceName: SidF
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Sincere Woman
+    characterId: oQQe3acDXD
+    voiceIds: []
+    voiceName: 
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: sKOpe
+    characterId: 0E4YC2ZYgD
+    voiceIds:
+    - ZTiUNM3xyv
+    - PkzjpSAjoE
+    - xDjIdAnwQB
+    voiceName: MLore
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Snake Biker
+    characterId: n5st3EtHkJ
+    voiceIds: []
+    voiceName: 
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Soldier
+    characterId: BrRTsNoh6r
+    voiceIds: []
+    voiceName: 
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Soldier
+    characterId: NZ2z77flWs
+    voiceIds: []
+    voiceName: 
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Soldier
+    characterId: Br6XeNo0Wd
+    voiceIds: []
+    voiceName: 
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Speaker
+    characterId: 
+    voiceIds:
+    - OYAKcJkHlr
+    voiceName: ComputerVoice
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Steve
+    characterId: EqhJdSnJ3v
+    voiceIds:
+    - YDecBQ4W6S
+    voiceName: SteveJ
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Stream of Consciousness
+    characterId: 
+    voiceIds:
+    - 4lnCxzXBAe
+    voiceName: SoC
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Stylist
+    characterId: L82oKMlJXM
+    voiceIds: []
+    voiceName: 
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Tan
+    characterId: 
+    voiceIds:
+    - wnJmTVmwVT
+    voiceName: TanY
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Tannoy
+    characterId: 
+    voiceIds:
+    - 8AKK0Id9ng
+    voiceName: TannoyWaterworks
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Tara
+    characterId: 
+    voiceIds:
+    - 93bVIW0kiV
+    voiceName: MPTara
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Terrified Voice
+    characterId: bLL17WGSWO
+    voiceIds:
+    - 8mdBS912wI
+    voiceName: AV Technician
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: TestHumanMale1
+    characterId: 
+    voiceIds:
+    - At6C6AMqQB
+    voiceName: TestHumanMale1
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: TestHumanMale2
+    characterId: 
+    voiceIds:
+    - kPehDQAPV1
+    voiceName: TestHumanMale2
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: TestHumanMale3
+    characterId: 
+    voiceIds:
+    - Fp3sSzJ9Kh
+    voiceName: TestHumanMale3
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: The Badge Trailer
+    characterId: DrYMWo1Vsu
+    voiceIds: []
+    voiceName: 
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: The Broken
+    characterId: PSa44WoI3p
+    voiceIds:
+    - IC77lv5GRu
+    voiceName: ReformerVoice01
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: The Dirge
+    characterId: CgmRZt10Qu
+    voiceIds:
+    - 1wekxu9oeZ
+    - ro4dHTVRKa
+    voiceName: Alpha
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: The Empty
+    characterId: dARhOyGkTX
+    voiceIds:
+    - IGDNAdPSVS
+    voiceName: ReformerVoice02
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: The Urge
+    characterId: NH5dL9DNqv
+    voiceIds:
+    - pfgrTmzUdk
+    voiceName: ReformerVoice04
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: The Weak
+    characterId: zRKnugCamH
+    voiceIds:
+    - B9XaNR01Sa
+    voiceName: ReformerVoice03
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Thug
+    characterId: 
+    voiceIds:
+    - dGt6TSt0bb
+    - 2lzT1Ocgxr
+    voiceName: ZombieThugMale02
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Thurston
+    characterId: AoQBaDUFqq
+    voiceIds: []
+    voiceName: 
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Tisha
+    characterId: h7AgShsRq1
+    voiceIds:
+    - mdHAqSz0px
+    voiceName: TishaR
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Todd
+    characterId: 
+    voiceIds:
+    - IfSlZLMMSE
+    voiceName: ToddP
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Trent
+    characterId: YiMysUJXsq
+    voiceIds:
+    - VxSRsjhJHY
+    voiceName: TrentP
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Valentia
+    characterId: fdbzLtDzL8
+    voiceIds:
+    - uZFJ5K0aBA
+    voiceName: ValentiaM
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Vasquez Prison Guy
+    characterId: UwLyXFj3cE
+    voiceIds: []
+    voiceName: 
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Veronique
+    characterId: 
+    voiceIds:
+    - wq0ANTGxaR
+    voiceName: Veronique
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: "V\xE9ronique"
+    characterId: WrUEqGuBqF
+    voiceIds: []
+    voiceName: 
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Vincent
+    characterId: rp18tDylIe
+    voiceIds:
+    - 9NjBepXFmO
+    voiceName: Vincent
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Vincent GangBanger2
+    characterId: 3dAEvJvjDX
+    voiceIds: []
+    voiceName: 
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Vincent King
+    characterId: WHcg4X8JRV
+    voiceIds: []
+    voiceName: 
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Voice
+    characterId: rHiKuPppdt
+    voiceIds: []
+    voiceName: 
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Voice on the Radio
+    characterId: 1SsAk46stT
+    voiceIds: []
+    voiceName: 
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: W.O. Rodriguez
+    characterId: OElNexWN1R
+    voiceIds:
+    - YPSoFNM6x9
+    voiceName: MelissaR
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Whipper
+    characterId: 
+    voiceIds:
+    - HEOMEnhalI
+    voiceName: ZombieWhipperFemale01
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Woman
+    characterId: CwT42XULsU
+    voiceIds: []
+    voiceName: 
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Yong-Ho
+    characterId: GLJmi59TCm
+    voiceIds: []
+    voiceName: 
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Zahra
+    characterId: 4H4vGz7J6F
+    voiceIds:
+    - Hvt2YYaRuU
+    voiceName: Zahra
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Zephron
+    characterId: 6uT2mRC5fJ
+    voiceIds: []
+    voiceName: 
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Zombie
+    characterId: DVlSTRMEZ0
+    voiceIds:
+    - uyuvfdIyQW
+    - WpxsUSVAHn
+    voiceName: ScriptedButcher
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: Zombie McZombie
+    characterId: QrG2ZB1SXB
+    voiceIds: []
+    voiceName: 
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: ZombieReformerMale01
+    characterId: 
+    voiceIds:
+    - GN664j7aWs
+    voiceName: ZombieReformerMale01
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: ZombieRunnerFemale03
+    characterId: 
+    voiceIds:
+    - cfEBeeSxAN
+    voiceName: ZombieRunnerFemale03
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: ZombieRunnerFemale05
+    characterId: 
+    voiceIds:
+    - V4xNnk1inS
+    voiceName: ZombieRunnerFemale05
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: ZombieRunnerFemale07
+    characterId: 
+    voiceIds:
+    - SK49lpB1Lt
+    voiceName: ZombieRunnerFemale07
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: ZombieRunnerFemale08
+    characterId: 
+    voiceIds:
+    - WbaikZQpqY
+    voiceName: ZombieRunnerFemale08
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: ZombieRunnerMale01
+    characterId: 
+    voiceIds:
+    - ap1qfBDbSN
+    voiceName: ZombieRunnerMale01
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: ZombieRunnerMale03
+    characterId: 
+    voiceIds:
+    - CzuPzLFGf1
+    voiceName: ZombieRunnerMale03
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: ZombieRunnerMale07
+    characterId: 
+    voiceIds:
+    - fOFXcCFYPn
+    voiceName: ZombieRunnerMale07
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: ZombieRunnerMale08
+    characterId: 
+    voiceIds:
+    - IyK3y9oG84
+    voiceName: ZombieRunnerMale08
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: ZombieRunnerMale11
+    characterId: 
+    voiceIds:
+    - DiNVtS9Zc6
+    voiceName: ZombieRunnerMale11
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: ZombieShamblerFemale01
+    characterId: 
+    voiceIds:
+    - n57FxAHVPH
+    voiceName: ZombieShamblerFemale01
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: ZombieShamblerFemale02
+    characterId: 
+    voiceIds:
+    - C6NY02XYw3
+    voiceName: ZombieShamblerFemale02
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: ZombieShamblerFemale03
+    characterId: 
+    voiceIds:
+    - WIzZ7HVW67
+    voiceName: ZombieShamblerFemale03
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: ZombieShamblerFemale06
+    characterId: 
+    voiceIds:
+    - NN2WiGkNss
+    voiceName: ZombieShamblerFemale06
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: ZombieShamblerMale01
+    characterId: 
+    voiceIds:
+    - gYGPDTPgfo
+    voiceName: ZombieShamblerMale01
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: ZombieShamblerMale02
+    characterId: 
+    voiceIds:
+    - OFYwZ1LWcg
+    voiceName: ZombieShamblerMale02
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: ZombieShamblerMale03
+    characterId: 
+    voiceIds:
+    - 0wdHZdgVDx
+    voiceName: ZombieShamblerMale03
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: ZombieShamblerMale04
+    characterId: 
+    voiceIds:
+    - OVsD88AH9g
+    voiceName: ZombieShamblerMale04
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: ZombieShamblerMale05
+    characterId: 
+    voiceIds:
+    - APqN2ZuFa8
+    voiceName: ZombieShamblerMale05
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: ZombieShamblerMale06
+    characterId: 
+    voiceIds:
+    - wOFcDOnWEO
+    voiceName: ZombieShamblerMale06
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: ZombieShamblerMale07
+    characterId: 
+    voiceIds:
+    - zATkBErgWF
+    voiceName: ZombieShamblerMale07
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: ZombieThugFemale01
+    characterId: 
+    voiceIds:
+    - MLLfGZyDgA
+    voiceName: ZombieThugFemale01
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: ZombieWalkerFemale01
+    characterId: 
+    voiceIds:
+    - pJod0g8Ukt
+    voiceName: ZombieWalkerFemale01
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: ZombieWalkerFemale02
+    characterId: 
+    voiceIds:
+    - PCKqJOz4PX
+    voiceName: ZombieWalkerFemale02
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: ZombieWalkerFemale03
+    characterId: 
+    voiceIds:
+    - 3XhDhtQKsG
+    voiceName: ZombieWalkerFemale03
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: ZombieWalkerFemale04
+    characterId: 
+    voiceIds:
+    - qYcBdGmNOU
+    voiceName: ZombieWalkerFemale04
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: ZombieWalkerFemale05
+    characterId: 
+    voiceIds:
+    - mS277sm4YT
+    voiceName: ZombieWalkerFemale05
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: ZombieWalkerFemale10
+    characterId: 
+    voiceIds:
+    - ZIK9iCHUJ8
+    voiceName: ZombieWalkerFemale10
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: ZombieWalkerFemale11
+    characterId: 
+    voiceIds:
+    - CSxBLPIFQs
+    voiceName: ZombieWalkerFemale11
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: ZombieWalkerFemale12
+    characterId: 
+    voiceIds:
+    - D3SgcoVeqY
+    voiceName: ZombieWalkerFemale12
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: ZombieWalkerMale01
+    characterId: 
+    voiceIds:
+    - BiGbxpdao9
+    voiceName: ZombieWalkerMale01
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: ZombieWalkerMale02
+    characterId: 
+    voiceIds:
+    - N3bK2XncQs
+    voiceName: ZombieWalkerMale02
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: ZombieWalkerMale03
+    characterId: 
+    voiceIds:
+    - YbXwTvFwpC
+    voiceName: ZombieWalkerMale03
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: ZombieWalkerMale04
+    characterId: 
+    voiceIds:
+    - kp4vYqDC3p
+    voiceName: ZombieWalkerMale04
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: ZombieWalkerMale05
+    characterId: 
+    voiceIds:
+    - ZpgCyczbZz
+    voiceName: ZombieWalkerMale05
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: ZombieWalkerMale07
+    characterId: 
+    voiceIds:
+    - xQwQVEu5kP
+    voiceName: ZombieWalkerMale07
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: ZombieWalkerMale08
+    characterId: 
+    voiceIds:
+    - J6vxpYrlWn
+    voiceName: ZombieWalkerMale08
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: ZombieWalkerMale11
+    characterId: 
+    voiceIds:
+    - ui9WkGHkEA
+    voiceName: ZombieWalkerMale11
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: ZombieWalkerMale12
+    characterId: 
+    voiceIds:
+    - PT0u17MRIR
+    voiceName: ZombieWalkerMale12
+    notes: 
+    priority: 99
+    isPlayer: 0
+  - displayName: ZombieWalkerMale13
+    characterId: 
+    voiceIds:
+    - Fd2pdoWy0B
+    voiceName: ZombieWalkerMale13
+    notes: 
+    priority: 99
+    isPlayer: 0
