@@ -1,0 +1,1 @@
+<content of Localization Tool/Character_Database.cs>
